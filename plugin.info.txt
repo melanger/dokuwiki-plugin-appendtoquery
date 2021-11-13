@@ -1,0 +1,7 @@
+base   appendtoquery
+author Melanger
+email  plugins@melanger.cz
+date   2021-11-13
+name   appendtoquery plugin
+desc   Append a fixed string to all search queries. Can be used to restrict search to a single namespace.
+url    https://github.com/melanger/dokuwiki-plugin-appendtoquery/
